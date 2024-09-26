@@ -67,3 +67,4 @@ Armazenamento: domínio de objetivo
 * Sincroniza os arquivos do Azure e locais de forma bidirecional.
 * A camada de nuvem mantém os arquivos acessados com frequência no local, enquanto libera espaço.
 
+![Imagem do Portal AZURE](Armazenamento.png)
